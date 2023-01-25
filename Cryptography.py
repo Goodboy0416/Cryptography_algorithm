@@ -1,4 +1,4 @@
-"""Made by AMAN THAKUR (COMP A - AIT Pune)"""
+"""Made by Gaurav Mehta (COMP A - AIT Pune)"""
 """ A cascaded cryptography system based on an idea presented in a research paper.
 Encryption/Decryption of text, image, audio and video file is being done using armstrong numbers and matrices,
 also used multithreading while processing data to increase efficiency. """
